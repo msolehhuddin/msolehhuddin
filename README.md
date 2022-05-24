@@ -1,0 +1,4 @@
+- 👋 @msolehhuddin
+- 👀 Interested in software project and ideas
+- 🌱 Currently learning python, .net with c#, project management
+- 📫 msolehhuddin.o@gmail.com
